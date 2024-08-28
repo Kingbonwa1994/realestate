@@ -49,6 +49,6 @@ export default async function Page() {
 
 export function generateMetadata(): Metadata {
   return {
-    title: `Property Na Tendani | Posts`,
+    title: `Property Na Tendani | Blog`,
   }
 }
