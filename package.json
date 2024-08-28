@@ -1,7 +1,7 @@
 {
   "name": "realestate",
   "version": "1.0.0",
-  "description": "Website template for Payload",
+  "description": "Real Estate Website",
   "license": "MIT",
   "type": "module",
   "scripts": {
