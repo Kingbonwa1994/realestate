@@ -38,14 +38,7 @@ export default async function Page({ params: { slug = 'home' } }) {
     slug,
   })
 
-  // Remove this code once your website is seeded
-  if (!page) {
-    page = homeStatic
-  }
 
-  if (!page) {
-    return <PayloadRedirects url={url} />
-  }
 
   const { hero, layout } = page
 
